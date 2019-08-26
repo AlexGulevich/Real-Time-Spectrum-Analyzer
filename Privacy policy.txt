@@ -1,0 +1,24 @@
+Privacy policy
+This privacy policy governs your use of the software application Real-time Spectrum Analyzer (“Application”) for mobile devices that was created by AGMM Inc. ("Developer"). The Application renders in real-time the spectrum and the spectrogram of the sound recorded by the device microphone. It allows basic sound processing and spectrum/spectrogram rendering customization which may be configured from the Application.
+What information does the Application obtain and how is it used?
+User Provided Information
+The Application stores your preferences such as recording and rendering properties.
+Automatically Collected Information
+The Application does not collect any information about you, your device, your connection settings.
+The audio samples recorded to compute the spectrogram are not stored in the device or any other storage service.
+Does the Application collect precise real time location information of the device?
+The Application does not collect any information about the location of your mobile device.
+Do third parties see and/or have access to information obtained by the Application?
+No third party may see or have access to the information you provided in the Application.
+What are my opt-out rights?
+You can remove the information you provided by uninstalling the Application.
+Data Retention Policy, Managing Your Information
+The User Provided information is stored in the device as long as the Application is installed.
+Children
+Not applicable.
+Security
+The User Provided information is only stored in the device. Thus it is only visible by you. Please be aware that no system can prevent all potential security breaches.
+Your Consent
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing” means using your preferences to compute and render the spectrum/spectrogram (of the sound recorded by the microphone).
+Contact us
+If you have any questions regarding privacy while using the Application, Imatrexor have questions about our practices, please contact us via email at agmm-inc.com@gmail.com.
